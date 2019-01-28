@@ -54,7 +54,7 @@ function helpCommand(arguments, receivedMessage) {
     }
 }
 
-client.login("NTMzNzYyNzAwNzI4MjA1MzIz.Dxvw6A.z15HvwBcDFZskOtYgqU5yh2gUUQ")
+client.login("hidden")
 
 
 
